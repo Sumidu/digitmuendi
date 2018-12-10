@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Digitale Mündigkeit"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -34,7 +34,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
@@ -56,17 +56,19 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "RWTH-Aachen University", url = "http://www.rwth-aachen.de" },
+                    { name = "Human-Computer Interaction Center", url = "http://www.comm.rwth-aachen.de" }
+  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "calero-valdez@comm.rwth-aachen.de"
+  address = "RWTH Aachen University, Campus Boulevard 57, 52074 Aachen, Germany"
+  office_hours = "Email for appointment"
+  phone = "+49 241 80 49239"
+  #skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -89,10 +91,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "50.78394"
+  longitude = "6.04323"
   zoom = 15
 
   # SITE SETUP
@@ -112,7 +114,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "@DigiMuen"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -172,11 +174,11 @@ enableGitInfo = false
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = false
+  privacy_pack = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["override.css"]
   custom_js  = []
 
   # Publication types.
@@ -199,7 +201,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -258,17 +260,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/DigiMuen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.de/citations?user=K6EVDoYAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/digitalemuendigkeit"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -294,16 +296,35 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
+  identifier = "pubmenu"
+  
+  [[menu.main]]
+  name = "All Publications"
+  url = "/publication"
+  weight = 3
+  parent = "pubmenu"
+  
+  [[menu.main]]
+  name = "Selected Publications"
+  url = "#publications_selected"
+  weight = 1
+  parent = "pubmenu"
+  
+  [[menu.main]]
+  name = "Recent Publications"
+  url = "#publications"
+  weight = 2
+  parent = "pubmenu"
 
 [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
