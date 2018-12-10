@@ -1,5 +1,5 @@
 +++
-title = "2018 12 10_PatricksPost"
+title = "Das ist mein erster Blogpost"
 date = 2018-12-10T11:22:59+01:00
 draft = false
 
@@ -18,3 +18,5 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+Hier folgt **dann** der Text...
+## Abschnitt 2
