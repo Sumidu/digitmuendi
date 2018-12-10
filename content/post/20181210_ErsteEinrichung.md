@@ -1,6 +1,6 @@
 +++
-title = "Welcome!"
-date = 2018-01-24T11:25:09+01:00
+title = "20181210_ErsteEinrichung"
+date = 2018-12-10T11:36:07+01:00
 draft = false
 
 # Tags and categories
@@ -18,6 +18,3 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-Welcome to the website of the junior research group "Digitale Mündigkeit".
-
-This website is currently under construction.
