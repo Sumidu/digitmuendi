@@ -53,6 +53,8 @@ Er studiert aktuell noch an der RWTH Aachen den Zwei-Fach Masterstudiengang Tech
 
 Im Anschluss wird er im Projekt Digitale Mündigkeit als wissenschaftliche Hilfskraft weiterarbeiten.
 
+Link zum [Google Scholar](https://scholar.google.de/citations?user=lV4TBgoAAAAJ) Profil
+
 ## Johannes Nakayama, B. Sc.
 <img src="img/johannes.jpg" class="teamphoto"/>
 
