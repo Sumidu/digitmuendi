@@ -47,7 +47,11 @@ Link zur [akademischen Webseite](http://www.calerovaldez.com/)
 ## Patrick Halbach, B. Sc.
 <img src="img/patrick.jpg" class="teamphoto"/>
 
+Patrick Halbach ist studentische Hilfskraft am Lehrstuhl für Communication Science und Human-Computer Interaction Center der RWTH Aachen University. 
 
+Er studiert aktuell noch an der RWTH Aachen den Zwei-Fach Masterstudiengang Technik-Kommunikation mit Grundlagen der Informatik und untersucht in seiner Abschlussarbeit den Einfluss von Social Media und Empfehlungssystemen auf die Meinungsbildung in der digitalen Gesellschaft.
+
+Im Anschluss wird er im Projekt Digitale Mündigkeit als wissenschaftliche Hilfskraft weiterarbeiten.
 
 ## Johannes Nakayama, B. Sc.
 <img src="img/johannes.jpg" class="teamphoto"/>
