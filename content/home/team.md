@@ -58,6 +58,8 @@ Im Anschluss wird er im Projekt Digitale Mündigkeit als wissenschaftliche Hilfs
 
 Johannes Nakayama arbeitet als studentische Hilfskraft am Lehrstuhl für Communication Science und am Human-Computer Interaction Center an der RWTH Aachen University. Er hat seinen Bachelorabschluss an der RWTH im Fach Technik-Kommunikation mit Beifach Informatik erworben und studiert zurzeit im konsekutiven Masterstudium weiter.
 
+Link zum [Google-Scholar](https://scholar.google.de/citations?user=UJHPeoUAAAAJ&hl=de) Profil
+
 ## Nils Plettenberg, B. Sc.
 <img src="img/nils.jpg" class="teamphoto"/>
 
