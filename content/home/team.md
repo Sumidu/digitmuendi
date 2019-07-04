@@ -44,14 +44,12 @@ Seit 2014 ist André Gastprofessor an der Medizinischen Universität Graz an der
 Link zum [Google-Scholar](https://scholar.google.de/citations?user=K6EVDoYAAAAJ&hl=en) Profil
 Link zur [akademischen Webseite](http://www.calerovaldez.com/)
 
-## Patrick Halbach, B. Sc.
+## Patrick Halbach, M. Sc.
 <img src="img/patrick.jpg" class="teamphoto"/>
 
-Patrick Halbach ist studentische Hilfskraft am Lehrstuhl für Communication Science und Human-Computer Interaction Center der RWTH Aachen University. 
+Patrick Halbach ist wissenschaftlicher Mitarbeiter am Lehrstuhl für Communication Science und Human-Computer Interaction Center der RWTH Aachen University. Er hat an der RWTH Aachen den interdisziplinären 2-Fach Master Technik-Kommunikation mit Informatik studiert. In seiner Abschlussarbeit untersuchte er den Einfluss von Social Media und Empfehlungssystemen auf die Meinungsbildung in der digitalen Gesellschaft.
 
-Er studiert aktuell noch an der RWTH Aachen den Zwei-Fach Masterstudiengang Technik-Kommunikation mit Grundlagen der Informatik und untersucht in seiner Abschlussarbeit den Einfluss von Social Media und Empfehlungssystemen auf die Meinungsbildung in der digitalen Gesellschaft.
-
-Im Anschluss wird er im Projekt Digitale Mündigkeit als wissenschaftliche Hilfskraft weiterarbeiten.
+Seit Juni 2019 ist er Teil der Nachwuchsforschergruppe Digitale Mündigkeit und befasst sich mit Makrofaktoren der Meinungsbildung im Internet und vor allem in sozialen Netzwerken. Er konzentriert sich dabei aktuell auf die Untersuchung des Einflusses von Strukturen und der Besonderheiten sozialer Netzwerke im Internet.
 
 Link zum [Google Scholar](https://scholar.google.de/citations?user=lV4TBgoAAAAJ) Profil
 
